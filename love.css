@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+}
+body{
+    position: relative;
+    height: 100vh;
+    background-color: rgb(231, 21, 186);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.ignore{
+    transition: all 0.7s ease-in-out;
+}
+.buttons{
+    margin-top: 15px;
+    display: flex;
+    position: relative;
+    gap: 15px;
+}
+.buttons button{
+    padding: 2px;
+    width: 50%;
+    min-height: 25px;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-size: 25px;
+    border-radius:15px ;
+    border: 1px solid black;
+}
+.buttons .ignore{
+    background-color: red;
+}
+.buttons .accept{
+    background-color: rgb(27, 223, 10);
+}
