@@ -6,12 +6,12 @@ let dataTracked=[
     },
     {
         value:"لازم تبقي زعلانه مني ",
-        leftOrRight:-120,
+        leftOrRight:120,
         topOrBottom:-150,
     },
     {
         value:"البت رضوي حراميه",
-        leftOrRight:135,
+        leftOrRight:-135,
         topOrBottom:140,
     },
     {
