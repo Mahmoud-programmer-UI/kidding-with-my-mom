@@ -1,7 +1,7 @@
 let dataTracked=[
     {
         value:"ليه بس كده يا ماما ",
-        leftOrRight:70,
+        leftOrRight:90,
         topOrBottom:180,
     },
     {
@@ -11,13 +11,13 @@ let dataTracked=[
     },
     {
         value:"البت رضوي حراميه",
-        leftOrRight:115,
+        leftOrRight:-90,
         topOrBottom:170,
     },
     {
         value:"وياسين اهبل",
-        leftOrRight:-110,
-        topOrBottom:-205,
+        leftOrRight:-90,
+        topOrBottom:-170,
     },
 ]
 let counter=0; 
