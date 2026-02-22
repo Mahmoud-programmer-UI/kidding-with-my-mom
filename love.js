@@ -1,17 +1,17 @@
 let dataTracked=[
     {
         value:"ليه بس كده يا ماما ",
-        leftOrRight:150,
+        leftOrRight:70,
         topOrBottom:150,
     },
     {
         value:"لازم تبقي زعلانه مني ",
-        leftOrRight:120,
+        leftOrRight:90,
         topOrBottom:-150,
     },
     {
         value:"البت رضوي حراميه",
-        leftOrRight:-135,
+        leftOrRight:115,
         topOrBottom:140,
     },
     {
