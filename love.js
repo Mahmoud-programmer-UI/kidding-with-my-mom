@@ -2,22 +2,22 @@ let dataTracked=[
     {
         value:"ليه بس كده يا ماما ",
         leftOrRight:70,
-        topOrBottom:150,
+        topOrBottom:180,
     },
     {
         value:"لازم تبقي زعلانه مني ",
         leftOrRight:90,
-        topOrBottom:-150,
+        topOrBottom:-200,
     },
     {
         value:"البت رضوي حراميه",
         leftOrRight:115,
-        topOrBottom:140,
+        topOrBottom:170,
     },
     {
         value:"وياسين اهبل",
         leftOrRight:-110,
-        topOrBottom:-160,
+        topOrBottom:-205,
     },
 ]
 let counter=0; 
