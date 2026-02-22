@@ -11,12 +11,12 @@ let dataTracked=[
     },
     {
         value:"البت رضوي حراميه",
-        leftOrRight:-90,
+        leftOrRight:-40,
         topOrBottom:170,
     },
     {
         value:"وياسين اهبل",
-        leftOrRight:-90,
+        leftOrRight:-40,
         topOrBottom:-170,
     },
 ]
